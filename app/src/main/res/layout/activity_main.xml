@@ -9,7 +9,7 @@
                 tools:context=".MainActivity">
 
     <TextView
-        android:text="Eine Demeo App für GitHub - Wer hat der hat"
+        android:text="Eine Demeo App für GitHub - Wer hat der hat.."
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"/>
 
